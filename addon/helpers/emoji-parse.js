@@ -1,5 +1,5 @@
 import Helper from '@ember/component/helper';
-import { htmlSafe } from '@ember/string';
+import { htmlSafe } from '@ember/template';
 import { assign } from '@ember/polyfills';
 import emojione from 'emojione';
 

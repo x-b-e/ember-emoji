@@ -23,7 +23,7 @@
     "broccoli-asset-rev": "^2.4.2",
     "ember-ajax": "^3.0.0",
     "ember-cli": "^3.1.0",
-    "ember-cli-app-version": "^3.2.0",
+    "ember-cli-app-version": "^5.0.0",
     "ember-cli-dependency-checker": "^2.0.0",
     "ember-cli-htmlbars-inline-precompile": "^1.0.0",
     "ember-cli-inject-live-reload": "^1.4.0",
@@ -52,7 +52,7 @@
     "broccoli-funnel": "^2.0.1",
     "broccoli-json-module": "^1.0.0",
     "broccoli-merge-trees": "^3.0.0",
-    "ember-cli-babel": "^6.6.0",
+    "ember-cli-babel": "^7.26.11",
     "ember-cli-htmlbars": "^2.0.1",
     "ember-cli-less": "^1.5.4",
     "emojione": "^3.1.6"
