@@ -9,7 +9,7 @@ const esTranspiler = require('broccoli-babel-transpiler');
 const compileLess = require('broccoli-less-single');
 
 module.exports = {
-    name: 'ember-emoji',
+    name: require('./package').name,
 
     isDevelopingAddon() {
         return process.env.EMOJI_DEV_MODE;
