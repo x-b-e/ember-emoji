@@ -26,7 +26,7 @@ module.exports = {
             compact: true,
             moduleRoot: pkg.name,
             plugins: [
-                //'babel-plugin-transform-es2015-modules-amd'
+                'babel-plugin-transform-es2015-modules-amd'
             ],
             moduleIds: true
         });
